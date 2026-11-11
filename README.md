@@ -17,10 +17,6 @@
 - **A hosted dashboard** for it: what is waiting on a person, what failed and why, how long a change takes from first commit to merge.
 - **Product work at 8CS**: iOS (SwiftUI) and web apps, and tools for a creative studio.
 
-### 📦 Public
-
-**[Chat](https://github.com/sanishsk/Chat)**: a SwiftUI chat UI framework with fully customisable message cells and a built-in media picker.
-
 ### 🧰 Stack I reach for first
 
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
